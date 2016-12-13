@@ -9,3 +9,8 @@ C:\Users\Lukas\Desktop\MIF Programming\TOP\nUnitProject\nUnitProject\obj\Debug\n
 C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\bin\Debug\nUnitProject.exe.config
 C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\obj\Debug\nUnitProject.exe
 C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\obj\Debug\nUnitProject.pdb
+C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\bin\Debug\nUnitProject.exe
+C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\bin\Debug\nUnitProject.pdb
+C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\bin\Debug\nunit.framework.dll
+C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\bin\Debug\nunit.framework.xml
+C:\Users\Lukas\Desktop\MIF Programming\nUnitProject\nUnitProject\obj\Debug\nUnitProject.csprojResolveAssemblyReference.cache
